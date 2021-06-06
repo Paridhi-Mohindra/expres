@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "skmkdssks"
+  description: "ksnnjdsnds"
+  annotations:
+    github.com/project-slug: Paridhi-Mohindra/expres
+    backstage.io/techdocs-ref: url:https://github.com/Paridhi-Mohindra/expres
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "mdsk"
